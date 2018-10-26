@@ -1,5 +1,5 @@
 # ThriftUnityPrototype
-Unity side developed to communicate with another application using Thrift.
+Unity project developed to exhibit 2 way communication using Thrift in Unity.
 
 
 ## How to run:
